@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/f8f29eba-a433-4ec4-9771-bb5fa9a90766.svg)](https://wakatime.com/@f8f29eba-a433-4ec4-9771-bb5fa9a90766)
+[![github](https://img.shields.io/github/followers/christianprimero926?logo=github&style=plastic)](https://github.com/christianprimero926?tab=followers)
+
+- 🔭 I’m currently working on [IAS Software - Desarrollo de aplicaciones Web y Móvil / Odoo ERP y CRM](https://www.ias.com.co/en)
+- 🌱 I’m currently learning AWS, Docker, Flutter and Reactive programming
+- 💬 Ask me about Java, Angular, MySQL and Springboot
+- 📫 How to reach me: [@christo_926_](https://www.instagram.com/christo_926_/) on Instagram.
+- ⚡ Fun fact: I play video games and I like to travel by motorcycle
+
+
 <!--
 **christianprimero926/christianprimero926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
